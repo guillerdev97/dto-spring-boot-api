@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dto-tutorial/dto-tutorial.iml" filepath="$PROJECT_DIR$/dto-tutorial/dto-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dto2-tutorial/dto2-tutorial.iml" filepath="$PROJECT_DIR$/dto2-tutorial/dto2-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-lessons.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-lessons.iml" />
+    </modules>
+  </component>
+</project>
