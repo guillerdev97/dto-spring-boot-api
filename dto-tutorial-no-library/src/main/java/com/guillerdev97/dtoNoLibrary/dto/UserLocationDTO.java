@@ -1,10 +1,10 @@
-package com.guillerdev97.dto.dto;
+package com.guillerdev97.dtoNoLibrary.dto;
 
 import lombok.Data;
 
 @Data
 public class UserLocationDTO {
-    private long userId;
+    private Long userId;
     private String email;
     private String place;
     private double longitude;

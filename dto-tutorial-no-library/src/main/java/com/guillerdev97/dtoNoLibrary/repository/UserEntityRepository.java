@@ -1,7 +1,6 @@
-package com.guillerdev97.dto.repository;
+package com.guillerdev97.dtoNoLibrary.repository;
 
-import com.guillerdev97.dto.model.UserEntity;
-import org.apache.catalina.User;
+import com.guillerdev97.dtoNoLibrary.model.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

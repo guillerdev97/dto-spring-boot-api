@@ -1,6 +1,6 @@
-package com.guillerdev97.dto2.repository;
+package com.guillerdev97.dtoLibrary.repository;
 
-import com.guillerdev97.dto2.model.UserEntity;
+import com.guillerdev97.dtoLibrary.model.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

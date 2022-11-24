@@ -1,6 +1,6 @@
-package com.guillerdev97.dto.repository;
+package com.guillerdev97.dtoLibrary.repository;
 
-import com.guillerdev97.dto.model.LocationEntity;
+import com.guillerdev97.dtoLibrary.model.LocationEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

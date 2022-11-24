@@ -1,7 +1,7 @@
-package com.guillerdev97.dto.controller;
+package com.guillerdev97.dtoNoLibrary.controller;
 
-import com.guillerdev97.dto.dto.UserLocationDTO;
-import com.guillerdev97.dto.service.UserEntityService;
+import com.guillerdev97.dtoNoLibrary.dto.UserLocationDTO;
+import com.guillerdev97.dtoNoLibrary.service.UserEntityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

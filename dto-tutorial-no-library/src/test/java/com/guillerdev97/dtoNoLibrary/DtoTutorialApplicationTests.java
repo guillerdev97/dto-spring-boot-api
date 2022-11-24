@@ -1,10 +1,10 @@
-package com.guillerdev97.dto2;
+package com.guillerdev97.dtoNoLibrary;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Dto2TutorialApplicationTests {
+class DtoTutorialApplicationTests {
 
 	@Test
 	void contextLoads() {

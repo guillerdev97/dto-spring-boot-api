@@ -1,6 +1,6 @@
-package com.guillerdev97.dto.service;
+package com.guillerdev97.dtoLibrary.service;
 
-import com.guillerdev97.dto.dto.UserLocationDTO;
+import com.guillerdev97.dtoLibrary.dto.UserLocationDTO;
 
 import java.util.List;
 

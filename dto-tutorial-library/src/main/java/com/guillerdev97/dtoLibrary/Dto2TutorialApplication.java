@@ -1,4 +1,4 @@
-package com.guillerdev97.dto2;
+package com.guillerdev97.dtoLibrary;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.boot.SpringApplication;

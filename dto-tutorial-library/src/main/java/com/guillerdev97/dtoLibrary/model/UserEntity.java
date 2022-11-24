@@ -1,4 +1,4 @@
-package com.guillerdev97.dto.model;
+package com.guillerdev97.dtoLibrary.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

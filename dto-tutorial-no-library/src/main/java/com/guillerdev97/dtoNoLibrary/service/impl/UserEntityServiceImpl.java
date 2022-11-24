@@ -1,9 +1,9 @@
-package com.guillerdev97.dto.service.impl;
+package com.guillerdev97.dtoNoLibrary.service.impl;
 
-import com.guillerdev97.dto.dto.UserLocationDTO;
-import com.guillerdev97.dto.model.UserEntity;
-import com.guillerdev97.dto.repository.UserEntityRepository;
-import com.guillerdev97.dto.service.UserEntityService;
+import com.guillerdev97.dtoNoLibrary.dto.UserLocationDTO;
+import com.guillerdev97.dtoNoLibrary.model.UserEntity;
+import com.guillerdev97.dtoNoLibrary.repository.UserEntityRepository;
+import com.guillerdev97.dtoNoLibrary.service.UserEntityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

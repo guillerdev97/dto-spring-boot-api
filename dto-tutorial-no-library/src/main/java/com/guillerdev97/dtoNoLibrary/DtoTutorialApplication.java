@@ -1,10 +1,9 @@
-package com.guillerdev97.dto;
+package com.guillerdev97.dtoNoLibrary;
 
-import com.guillerdev97.dto.model.LocationEntity;
-import com.guillerdev97.dto.model.UserEntity;
-import com.guillerdev97.dto.repository.LocationEntityRepository;
-import com.guillerdev97.dto.repository.UserEntityRepository;
-import org.apache.catalina.User;
+import com.guillerdev97.dtoNoLibrary.model.LocationEntity;
+import com.guillerdev97.dtoNoLibrary.model.UserEntity;
+import com.guillerdev97.dtoNoLibrary.repository.LocationEntityRepository;
+import com.guillerdev97.dtoNoLibrary.repository.UserEntityRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
