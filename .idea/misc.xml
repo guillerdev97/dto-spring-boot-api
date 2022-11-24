@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/dto2-tutorial/pom.xml" />
         <option value="$PROJECT_DIR$/dto-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/dto-tutorial-no-library/pom.xml" />
+        <option value="$PROJECT_DIR$/dto-tutorial-library/pom.xml" />
       </list>
     </option>
   </component>

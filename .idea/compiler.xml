@@ -7,18 +7,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="dto-tutorial" />
+        <module name="dto-tutorial-library" />
         <module name="dto2-tutorial" />
+        <module name="dto-tutorial-no-library" />
+        <module name="dto-tutorial" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="dto-tutorial" target="17" />
+      <module name="dto-tutorial-library" target="17" />
+      <module name="dto-tutorial-no-library" target="17" />
       <module name="dto2-tutorial" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="dto-tutorial" options="-parameters" />
+      <module name="dto-tutorial-library" options="-parameters" />
+      <module name="dto-tutorial-no-library" options="-parameters" />
       <module name="dto2-tutorial" options="-parameters" />
     </option>
   </component>
