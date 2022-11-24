@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class UserLocationDTO {
-    private String userId;
+    private long userId;
     private String email;
     private String place;
     private double longitude;
